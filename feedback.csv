@@ -1,0 +1,9 @@
+﻿age,gender,height,weight,goal,predicted_goal,experience,bmi_category,feedback_text,satisfaction
+25,male,177.0,58.0,muscle_gain,muscle_gain,beginner,normal,친절한 답변이네요,satisfied
+25,male,176.0,85.0,muscle_gain,muscle_gain,beginner,overweight,만족합니다,satisfied
+54,female,165.0,54.0,flexibility,weight_loss,intermediate,normal,만족스럽지 않아요,unsatisfied
+24,male,174.0,75.0,muscle_gain,weight_loss,intermediate,normal,맞춤 운동 루틴 만족합니다.,satisfied
+17,male,176.0,75.0,muscle_gain,muscle_gain,beginner,normal,만족합니다,satisfied
+26,male,175.0,73.0,weight_loss,weight_loss,beginner,normal,만족합니다,satisfied
+26,male,175.0,73.0,weight_loss,weight_loss,beginner,normal,만족합니다,satisfied
+34,male,176.0,75.0,muscle_gain,weight_loss,beginner,normal,좋은 운동 루틴 추천 감사합니다.,satisfied
